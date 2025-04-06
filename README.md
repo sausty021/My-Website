@@ -1,2 +1,2 @@
 # My-Website
-  <a href="../fromScratch.html"> Go To </a> 
+  <a href="fromScratch.html"> Go To </a> 
